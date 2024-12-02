@@ -1,0 +1,24 @@
+
+.company-details {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+   
+}
+.service-card {
+    margin: 20px 0;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+#about{
+    display: flex;
+}
+.images img{
+    border-radius: 20px;
+}
+.card body h5{
+    color: red;
+}
